@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc6b2b98-f043-4b14-8d07-b5afd0e124eb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first_file.txt" afterPath="$PROJECT_DIR$/first_file.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/new_branch_file.txt" afterPath="$PROJECT_DIR$/new_branch_file.txt" />
     </list>
     <ignored path="home work Git.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,11 +33,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="first_file.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="first_file.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/first_file.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="new_branch_file.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/new_branch_file.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -55,6 +63,7 @@
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/first_file.txt" />
+        <option value="$PROJECT_DIR$/new_branch_file.txt" />
       </list>
     </option>
   </component>
@@ -64,8 +73,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-76" />
-    <option name="y" value="200" />
+    <option name="x" value="-97" />
+    <option name="y" value="96" />
     <option name="width" value="1616" />
     <option name="height" value="876" />
   </component>
@@ -234,15 +243,15 @@
       <option name="presentableId" value="Default" />
       <updated>1463494880917</updated>
       <workItem from="1463494882176" duration="376000" />
-      <workItem from="1463497707246" duration="637000" />
+      <workItem from="1463497707246" duration="837000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1013000" />
+    <option name="totallyTimeSpent" value="1213000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-76" y="200" width="1616" height="876" extended-state="1" />
+    <frame x="-97" y="96" width="1616" height="876" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25642672" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -303,6 +312,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_branch_file.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
