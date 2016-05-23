@@ -11,7 +11,6 @@ def task1 (num)
   p result
 
 end
-
 task1(123)
 
 #task#2
@@ -28,6 +27,7 @@ p arr_str2 = number_string2.max_by{ |elem| elem.size }
 #task#4
 
 #task#5
+
 array = [1, 122, 67, 14]
 even_arr = []
 odd_arr = []
