@@ -20,13 +20,14 @@ p str.scan(/\d+/).map{|i| i.size}.max
 
 #task#3
 
-str2 = '12 33 189edw12456'
+str2 = '12 33 18 edw 12'
 p number_string2 = str2.scan(/\d+/)
-p arr_str2 = number_string2.max_by{ |elem| elem.size }
+p arr_str2 = number_string2.max
 
 #task#4
 
 #task#5
+
 array = [1, 122, 67, 14]
 even_arr = []
 odd_arr = []
